@@ -1,5 +1,5 @@
 
-# Yapay Zekâ Dersi – Dying Light Oyun Yorum Analizi
+# Yapay Zekâ Dersi – Ödev 2
 ## Eğitilen Modellerle Metin Benzerliği Hesaplama ve Değerlendirme
 
 ### 📌 Proje Açıklaması
@@ -14,7 +14,8 @@ project/
 ├── data/
 │   ├── lemmatized.csv
 │   ├── stemmed.csv
-
+│   ├── tfidf_lemmatized.csv
+│   └── tfidf_stemmed.csv
 ├── models/
 │   ├── w2v_lemmatized_model_1.model
 │   ├── ...
@@ -74,7 +75,7 @@ project/
 
 ### ✍️ Hazırlayan
 **Oğuzhan Şen**  
-Yapay Zeka Dersi – Final Ödevi 
+Yapay Zeka Dersi – Ödev 2  
 Gümüşhane Üniversitesi  
 İktisadi ve İdari Bilimler Fakültesi  
 Yönetim Bilişim Sistemleri Bölümü
